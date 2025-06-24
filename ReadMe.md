@@ -104,10 +104,10 @@ These helped interpret the model behavior and explain the decision-making proces
    jupyter notebook
 
 
-Feedback & Collaboration: 
+## Feedback & Collaboration: 
 I’m always open to feedback, suggestions, and collaboration—especially from those working in healthcare AI. Feel free to connect or fork the repo!
 
-Credits:
+## Credits:
 
-UCI Machine Learning Repository
-Kaggle Dataset Contributors
+**UCI Machine Learning Repository**
+**Kaggle Dataset Contributors**
